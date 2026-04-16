@@ -12,4 +12,4 @@
 
 - React Native
 - TypeScript
-- API de geração de operações matemáticas
+- API
